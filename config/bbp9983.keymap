@@ -266,7 +266,7 @@
             bindings = <        
                 		&none                                                                           	 &none
 
-    	         	&kp K_SCROLL_UP			&mtt K_PREV K_VOL_DN	        &hm2 EP_TOG K_PP		&mtt K_NEXT K_VOL_UP	&kp K_SCROLL_DOWN
+    	         	&kp K_PREV			&kp K_VOL_DN	        &hm2 EP_TOG K_PP		&kp K_VOL_UP	&kp K_NEXT
 
     &mtt TILDE HASH	   	&mtt HOME N1	   &mtt UP	N2	   &mtt PG_UP   N3	   &mtt LBKT LPAR	&mtt RBKT RPAR	   &mtt LT UNDER     &mtt GT MINUS	 &mtt CARET PLUS	&mtt PERCENT AT
     &mtt EQUAL STAR		&mtt LEFT N4	   &mtt DOWN	N5	   &mtt RIGHT	N6	   &mtt BSLH SLASH	&mtt PIPE COLON	   &mtt AMPS SEMI    &mtt APOS APOS	 &mtt DQT DQT     	&mtt DEL BSPC
